@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Blog Beequation</title>
+    <link>https://vi.beequation.com/blog/</link>
+    <description>Tin tức, ý tưởng học toán và hướng dẫn mới từ Beequation.</description>
+    <language>vi</language>
+    <lastBuildDate>Mon, 12 Oct 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://vi.beequation.com/blog/feed.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
